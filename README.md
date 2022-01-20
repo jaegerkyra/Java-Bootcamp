@@ -1,7 +1,1 @@
-echo "# Java-Bootcamp" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jaegerkyra/Java-Bootcamp.git
-git push -u origin main
+Uploading exercises and challenges I work on from "The Complete Java Development Bootcamp" Udemy course

@@ -3,5 +3,6 @@ public class Form {
         char gender = 'F';
         String name = "Jenna";
         System.out.println("Gender: " + gender);
+        System.out.println("Name: " + name);
     }
 }
